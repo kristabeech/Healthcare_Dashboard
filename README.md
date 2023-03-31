@@ -1,1 +1,1 @@
-# Healthcare_Dashboard
+Created visually impactful dashboard in Power BI for data reporting using public healthcare data sets. Extracted, interpreted, and analyzed data to identify key metrics and transform raw data into meaningful, actionable information. 
